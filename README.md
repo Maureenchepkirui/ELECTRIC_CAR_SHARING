@@ -3,8 +3,7 @@
 # Description #
 ```
 
- A repository figure out how we can predict which individuals are most likely to have or use a bank account by providing an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania, and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
-
+ Urban car usage has led to the increased usage of electric cars and subsequently electric sharing cars.However, despite the increase in usage of shared electric cars there is little utilization of these services as compared to other modes of transport.
 ```
 
 ![](https://forthebadge.com/images/badges/check-it-out.svg)
